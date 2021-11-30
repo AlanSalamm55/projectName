@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"hello world"
+	for(int i=0;i<=5;i++)
+		cout<<"hello world"
 	return 0;
 }
